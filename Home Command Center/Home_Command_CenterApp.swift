@@ -1,9 +1,4 @@
-//
-//  Home_Command_CenterApp.swift
-//  Home Command Center
-//
-//  Created by Артём Коротков on 18.05.2026.
-//
+
 
 import SwiftUI
 
